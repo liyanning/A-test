@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+2 <project version="4"> 
+3   <component name="ClientPropertiesManager"> 
+4     <properties class="javax.swing.AbstractButton"> 
+5       <property name="hideActionText" class="java.lang.Boolean" /> 
+6     </properties> 
+7     <properties class="javax.swing.JComponent"> 
+8       <property name="html.disable" class="java.lang.Boolean" /> 
+9     </properties> 
+10     <properties class="javax.swing.JEditorPane"> 
+11       <property name="JEditorPane.w3cLengthUnits" class="java.lang.Boolean" /> 
+12       <property name="JEditorPane.honorDisplayProperties" class="java.lang.Boolean" /> 
+13       <property name="charset" class="java.lang.String" /> 
+14     </properties> 
+15     <properties class="javax.swing.JList"> 
+16       <property name="List.isFileList" class="java.lang.Boolean" /> 
+17     </properties> 
+18     <properties class="javax.swing.JPasswordField"> 
+19       <property name="JPasswordField.cutCopyAllowed" class="java.lang.Boolean" /> 
+20     </properties> 
+21     <properties class="javax.swing.JSlider"> 
+22       <property name="Slider.paintThumbArrowShape" class="java.lang.Boolean" /> 
+23       <property name="JSlider.isFilled" class="java.lang.Boolean" /> 
+24     </properties> 
+25     <properties class="javax.swing.JTable"> 
+26       <property name="Table.isFileList" class="java.lang.Boolean" /> 
+27       <property name="JTable.autoStartsEdit" class="java.lang.Boolean" /> 
+28       <property name="terminateEditOnFocusLost" class="java.lang.Boolean" /> 
+29     </properties> 
+30     <properties class="javax.swing.JToolBar"> 
+31       <property name="JToolBar.isRollover" class="java.lang.Boolean" /> 
+32     </properties> 
+33     <properties class="javax.swing.JTree"> 
+34       <property name="JTree.lineStyle" class="java.lang.String" /> 
+35     </properties> 
+36     <properties class="javax.swing.text.JTextComponent"> 
+37       <property name="caretAspectRatio" class="java.lang.Double" /> 
+38       <property name="caretWidth" class="java.lang.Integer" /> 
+39     </properties> 
+40   </component> 
+41   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK"> 
+42     <output url="file://$PROJECT_DIR$/out" /> 
+43   </component> 
+44   <component name="masterDetails"> 
+45     <states> 
+46       <state key="GlobalLibrariesConfigurable.UI"> 
+47         <settings> 
+48           <splitter-proportions> 
+49             <option name="proportions"> 
+50               <list> 
+51                 <option value="0.2" /> 
+52               </list> 
+53             </option> 
+54           </splitter-proportions> 
+55         </settings> 
+56       </state> 
+57       <state key="JdkListConfigurable.UI"> 
+58         <settings> 
+59           <last-edited>1.8</last-edited> 
+60           <splitter-proportions> 
+61             <option name="proportions"> 
+62               <list> 
+63                 <option value="0.2" /> 
+64               </list> 
+65             </option> 
+66           </splitter-proportions> 
+67         </settings> 
+68       </state> 
+69       <state key="ProjectJDKs.UI"> 
+70         <settings> 
+71           <last-edited>1.8</last-edited> 
+72           <splitter-proportions> 
+73             <option name="proportions"> 
+74               <list> 
+75                 <option value="0.2" /> 
+76               </list> 
+77             </option> 
+78           </splitter-proportions> 
+79         </settings> 
+80       </state> 
+81       <state key="ProjectLibrariesConfigurable.UI"> 
+82         <settings> 
+83           <splitter-proportions> 
+84             <option name="proportions"> 
+85               <list> 
+86                 <option value="0.2" /> 
+87               </list> 
+88             </option> 
+89           </splitter-proportions> 
+90         </settings> 
+91       </state> 
+92     </states> 
+93   </component> 
+94 </project> 
