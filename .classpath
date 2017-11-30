@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+2 <classpath> 
+3 	<classpathentry kind="src" path="src"/> 
+4 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/> 
+5 	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/> 
+6 	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/> 
+7 	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/> 
+8 	<classpathentry kind="lib" path="lib/spring-beans-3.2.0.RC1.jar"/> 
+9 	<classpathentry kind="lib" path="lib/spring-context-3.2.0.RC1.jar"/> 
+10 	<classpathentry kind="lib" path="lib/spring-context-support-3.2.0.RC1.jar"/> 
+11 	<classpathentry kind="lib" path="lib/spring-core-3.2.0.RC1.jar"/> 
+12 	<classpathentry kind="lib" path="lib/spring-expression-3.2.0.RC1.jar"/> 
+13 	<classpathentry kind="lib" path="lib/entity.jar"/> 
+14 	<classpathentry kind="output" path="bin"/> 
+15 </classpath> 
