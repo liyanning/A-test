@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+2 <project version="4"> 
+3   <component name="ChangeListManager"> 
+4     <list default="true" id="a61e90c6-dbd2-4d27-b0dc-07a0aa4eb048" name="Default" comment="" /> 
+5     <ignored path="$PROJECT_DIR$/bin/" /> 
+6     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" /> 
+7     <option name="TRACKING_ENABLED" value="true" /> 
+8     <option name="SHOW_DIALOG" value="false" /> 
+9     <option name="HIGHLIGHT_CONFLICTS" value="true" /> 
+10     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" /> 
+11     <option name="LAST_RESOLUTION" value="IGNORE" /> 
+12   </component> 
+13   <component name="CreatePatchCommitExecutor"> 
+14     <option name="PATCH_PATH" value="" /> 
+15   </component> 
+16   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" /> 
+17   <component name="FileEditorManager"> 
+18     <leaf> 
+19       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true"> 
+20         <entry file="file://$PROJECT_DIR$/src/cn/campsg/practical/bubble/MainClass.java"> 
+21           <provider selected="true" editor-type-id="text-editor"> 
+22             <state relative-caret-position="204"> 
+23               <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" /> 
+24               <folding /> 
+25             </state> 
+26           </provider> 
+27         </entry> 
+28       </file> 
+29     </leaf> 
+30   </component> 
+31   <component name="GradleLocalSettings"> 
+32     <option name="externalProjectsViewState"> 
+33       <projects_view /> 
+34     </option> 
+35   </component> 
+36   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" /> 
+37   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" /> 
+38   <component name="JsGulpfileManager"> 
+39     <detection-done>true</detection-done> 
+40     <sorting>DEFINITION_ORDER</sorting> 
+41   </component> 
+42   <component name="ProjectFrameBounds"> 
+43     <option name="y" value="22" /> 
+44     <option name="width" value="1280" /> 
+45     <option name="height" value="711" /> 
+46   </component> 
+47   <component name="ProjectView"> 
+48     <navigator currentView="ProjectPane" proportions="" version="1"> 
+49       <flattenPackages /> 
+50       <showMembers /> 
+51       <showModules /> 
+52       <showLibraryContents /> 
+53       <hideEmptyPackages /> 
+54       <abbreviatePackageNames /> 
+55       <autoscrollToSource /> 
+56       <autoscrollFromSource ProjectPane="true" /> 
+57       <sortByType /> 
+58       <manualOrder /> 
+59       <foldersAlwaysOnTop value="true" /> 
+60     </navigator> 
+61     <panes> 
+62       <pane id="Scope" /> 
+63       <pane id="PackagesPane" /> 
+64       <pane id="Scratches" /> 
+65       <pane id="ProjectPane"> 
+66         <subPane> 
+67           <PATH> 
+68             <PATH_ELEMENT> 
+69               <option name="myItemId" value="PRJ_BU2_JAVA_001" /> 
+70               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" /> 
+71             </PATH_ELEMENT> 
+72             <PATH_ELEMENT> 
+73               <option name="myItemId" value="PRJ_BU2_JAVA_001" /> 
+74               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /> 
+75             </PATH_ELEMENT> 
+76           </PATH> 
+77           <PATH> 
+78             <PATH_ELEMENT> 
+79               <option name="myItemId" value="PRJ_BU2_JAVA_001" /> 
+80               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" /> 
+81             </PATH_ELEMENT> 
+82             <PATH_ELEMENT> 
+83               <option name="myItemId" value="PRJ_BU2_JAVA_001" /> 
+84               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /> 
+85             </PATH_ELEMENT> 
+86             <PATH_ELEMENT> 
+87               <option name="myItemId" value="src" /> 
+88               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /> 
+89             </PATH_ELEMENT> 
+90           </PATH> 
+91           <PATH> 
+92             <PATH_ELEMENT> 
+93               <option name="myItemId" value="PRJ_BU2_JAVA_001" /> 
+94               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" /> 
+95             </PATH_ELEMENT> 
+96             <PATH_ELEMENT> 
+97               <option name="myItemId" value="PRJ_BU2_JAVA_001" /> 
+98               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /> 
+99             </PATH_ELEMENT> 
+100             <PATH_ELEMENT> 
+101               <option name="myItemId" value="src" /> 
+102               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /> 
+103             </PATH_ELEMENT> 
+104             <PATH_ELEMENT> 
+105               <option name="myItemId" value="bubble" /> 
+106               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /> 
+107             </PATH_ELEMENT> 
+108           </PATH> 
+109         </subPane> 
+110       </pane> 
+111     </panes> 
+112   </component> 
+113   <component name="PropertiesComponent"> 
+114     <property name="project.structure.last.edited" value="Problems" /> 
+115     <property name="project.structure.proportion" value="0.0" /> 
+116     <property name="project.structure.side.proportion" value="0.2" /> 
+117     <property name="settings.editor.selected.configurable" value="File.Encoding" /> 
+118     <property name="WebServerToolWindowFactoryState" value="false" /> 
+119     <property name="aspect.path.notification.shown" value="true" /> 
+120     <property name="js.eslint.eslintPackage" value="" /> 
+121   </component> 
+122   <component name="RunManager"> 
+123     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin"> 
+124       <module name="" /> 
+125       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" /> 
+126       <option name="PROGRAM_PARAMETERS" /> 
+127       <predefined_log_file id="idea.log" enabled="true" /> 
+128       <method /> 
+129     </configuration> 
+130     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App"> 
+131       <module name="" /> 
+132       <option name="DEPLOY" value="true" /> 
+133       <option name="ARTIFACT_NAME" value="" /> 
+134       <option name="PM_INSTALL_OPTIONS" value="" /> 
+135       <option name="ACTIVITY_EXTRA_FLAGS" value="" /> 
+136       <option name="MODE" value="default_activity" /> 
+137       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" /> 
+138       <option name="PREFERRED_AVD" value="" /> 
+139       <option name="CLEAR_LOGCAT" value="false" /> 
+140       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" /> 
+141       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" /> 
+142       <option name="FORCE_STOP_RUNNING_APP" value="true" /> 
+143       <option name="DEBUGGER_TYPE" value="Java" /> 
+144       <option name="USE_LAST_SELECTED_DEVICE" value="false" /> 
+145       <option name="PREFERRED_AVD" value="" /> 
+146       <Java /> 
+147       <Profilers> 
+148         <option name="ENABLE_ADVANCED_PROFILING" value="true" /> 
+149         <option name="GAPID_ENABLED" value="false" /> 
+150         <option name="GAPID_DISABLE_PCS" value="false" /> 
+151         <option name="SUPPORT_LIB_ENABLED" value="true" /> 
+152         <option name="INSTRUMENTATION_ENABLED" value="true" /> 
+153       </Profilers> 
+154       <option name="DEEP_LINK" value="" /> 
+155       <option name="ACTIVITY_CLASS" value="" /> 
+156       <method /> 
+157     </configuration> 
+158     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests"> 
+159       <module name="" /> 
+160       <option name="TESTING_TYPE" value="0" /> 
+161       <option name="INSTRUMENTATION_RUNNER_CLASS" value="" /> 
+162       <option name="METHOD_NAME" value="" /> 
+163       <option name="CLASS_NAME" value="" /> 
+164       <option name="PACKAGE_NAME" value="" /> 
+165       <option name="EXTRA_OPTIONS" value="" /> 
+166       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" /> 
+167       <option name="PREFERRED_AVD" value="" /> 
+168       <option name="CLEAR_LOGCAT" value="false" /> 
+169       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" /> 
+170       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" /> 
+171       <option name="FORCE_STOP_RUNNING_APP" value="true" /> 
+172       <option name="DEBUGGER_TYPE" value="Java" /> 
+173       <option name="USE_LAST_SELECTED_DEVICE" value="false" /> 
+174       <option name="PREFERRED_AVD" value="" /> 
+175       <Java /> 
+176       <Profilers> 
+177         <option name="ENABLE_ADVANCED_PROFILING" value="true" /> 
+178         <option name="GAPID_ENABLED" value="false" /> 
+179         <option name="GAPID_DISABLE_PCS" value="false" /> 
+180         <option name="SUPPORT_LIB_ENABLED" value="true" /> 
+181         <option name="INSTRUMENTATION_ENABLED" value="true" /> 
+182       </Profilers> 
+183       <method /> 
+184     </configuration> 
+185     <configuration default="true" type="Applet" factoryName="Applet"> 
+186       <option name="HTML_USED" value="false" /> 
+187       <option name="WIDTH" value="400" /> 
+188       <option name="HEIGHT" value="300" /> 
+189       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" /> 
+190       <module /> 
+191       <method /> 
+192     </configuration> 
+193     <configuration default="true" type="Application" factoryName="Application"> 
+194       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+195       <option name="MAIN_CLASS_NAME" /> 
+196       <option name="VM_PARAMETERS" /> 
+197       <option name="PROGRAM_PARAMETERS" /> 
+198       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" /> 
+199       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+200       <option name="ALTERNATIVE_JRE_PATH" /> 
+201       <option name="ENABLE_SWING_INSPECTOR" value="false" /> 
+202       <option name="ENV_VARIABLES" /> 
+203       <option name="PASS_PARENT_ENVS" value="true" /> 
+204       <module name="" /> 
+205       <envs /> 
+206       <method /> 
+207     </configuration> 
+208     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true"> 
+209       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+210       <module name="" /> 
+211       <option name="arquillianRunConfiguration"> 
+212         <value> 
+213           <option name="containerStateName" value="" /> 
+214         </value> 
+215       </option> 
+216       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+217       <option name="ALTERNATIVE_JRE_PATH" /> 
+218       <option name="PACKAGE_NAME" /> 
+219       <option name="MAIN_CLASS_NAME" /> 
+220       <option name="METHOD_NAME" /> 
+221       <option name="TEST_OBJECT" value="class" /> 
+222       <option name="VM_PARAMETERS" /> 
+223       <option name="PARAMETERS" /> 
+224       <option name="WORKING_DIRECTORY" /> 
+225       <option name="ENV_VARIABLES" /> 
+226       <option name="PASS_PARENT_ENVS" value="true" /> 
+227       <option name="TEST_SEARCH_SCOPE"> 
+228         <value defaultName="singleModule" /> 
+229       </option> 
+230       <envs /> 
+231       <patterns /> 
+232       <method /> 
+233     </configuration> 
+234     <configuration default="true" type="ArquillianTestNG" factoryName=""> 
+235       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+236       <module name="" /> 
+237       <option name="arquillianRunConfiguration"> 
+238         <value> 
+239           <option name="containerStateName" value="" /> 
+240         </value> 
+241       </option> 
+242       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+243       <option name="ALTERNATIVE_JRE_PATH" /> 
+244       <option name="SUITE_NAME" /> 
+245       <option name="PACKAGE_NAME" /> 
+246       <option name="MAIN_CLASS_NAME" /> 
+247       <option name="METHOD_NAME" /> 
+248       <option name="GROUP_NAME" /> 
+249       <option name="TEST_OBJECT" value="CLASS" /> 
+250       <option name="VM_PARAMETERS" /> 
+251       <option name="PARAMETERS" /> 
+252       <option name="WORKING_DIRECTORY" /> 
+253       <option name="OUTPUT_DIRECTORY" /> 
+254       <option name="ANNOTATION_TYPE" /> 
+255       <option name="ENV_VARIABLES" /> 
+256       <option name="PASS_PARENT_ENVS" value="true" /> 
+257       <option name="TEST_SEARCH_SCOPE"> 
+258         <value defaultName="singleModule" /> 
+259       </option> 
+260       <option name="USE_DEFAULT_REPORTERS" value="false" /> 
+261       <option name="PROPERTIES_FILE" /> 
+262       <envs /> 
+263       <properties /> 
+264       <listeners /> 
+265       <method /> 
+266     </configuration> 
+267     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path=""> 
+268       <method /> 
+269     </configuration> 
+270     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java"> 
+271       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+272       <option name="myFilePath" /> 
+273       <option name="GLUE" /> 
+274       <option name="myNameFilter" /> 
+275       <option name="myGeneratedName" /> 
+276       <option name="MAIN_CLASS_NAME" /> 
+277       <option name="VM_PARAMETERS" /> 
+278       <option name="PROGRAM_PARAMETERS" /> 
+279       <option name="WORKING_DIRECTORY" /> 
+280       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+281       <option name="ALTERNATIVE_JRE_PATH" /> 
+282       <option name="ENABLE_SWING_INSPECTOR" value="false" /> 
+283       <option name="ENV_VARIABLES" /> 
+284       <option name="PASS_PARENT_ENVS" value="true" /> 
+285       <module name="" /> 
+286       <envs /> 
+287       <method /> 
+288     </configuration> 
+289     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App"> 
+290       <option name="BCName" value="" /> 
+291       <option name="IOSSimulatorSdkPath" value="" /> 
+292       <option name="adlOptions" value="" /> 
+293       <option name="airProgramParameters" value="" /> 
+294       <option name="appDescriptorForEmulator" value="Android" /> 
+295       <option name="debugTransport" value="USB" /> 
+296       <option name="debuggerSdkRaw" value="BC SDK" /> 
+297       <option name="emulator" value="NexusOne" /> 
+298       <option name="emulatorAdlOptions" value="" /> 
+299       <option name="fastPackaging" value="true" /> 
+300       <option name="fullScreenHeight" value="0" /> 
+301       <option name="fullScreenWidth" value="0" /> 
+302       <option name="launchUrl" value="false" /> 
+303       <option name="launcherParameters"> 
+304         <LauncherParameters> 
+305           <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" /> 
+306           <option name="launcherType" value="OSDefault" /> 
+307           <option name="newPlayerInstance" value="false" /> 
+308           <option name="playerPath" value="/Applications/Flash Player Debugger.app" /> 
+309         </LauncherParameters> 
+310       </option> 
+311       <option name="mobileRunTarget" value="Emulator" /> 
+312       <option name="moduleName" value="" /> 
+313       <option name="overriddenMainClass" value="" /> 
+314       <option name="overriddenOutputFileName" value="" /> 
+315       <option name="overrideMainClass" value="false" /> 
+316       <option name="runTrusted" value="true" /> 
+317       <option name="screenDpi" value="0" /> 
+318       <option name="screenHeight" value="0" /> 
+319       <option name="screenWidth" value="0" /> 
+320       <option name="url" value="http://" /> 
+321       <option name="usbDebugPort" value="7936" /> 
+322       <method /> 
+323     </configuration> 
+324     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class"> 
+325       <option name="BCName" value="" /> 
+326       <option name="launcherParameters"> 
+327         <LauncherParameters> 
+328           <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" /> 
+329           <option name="launcherType" value="OSDefault" /> 
+330           <option name="newPlayerInstance" value="false" /> 
+331           <option name="playerPath" value="/Applications/Flash Player Debugger.app" /> 
+332         </LauncherParameters> 
+333       </option> 
+334       <option name="moduleName" value="" /> 
+335       <option name="trusted" value="true" /> 
+336       <method /> 
+337     </configuration> 
+338     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle"> 
+339       <ExternalSystemSettings> 
+340         <option name="executionName" /> 
+341         <option name="externalProjectPath" /> 
+342         <option name="externalSystemIdString" value="GRADLE" /> 
+343         <option name="scriptParameters" /> 
+344         <option name="taskDescriptions"> 
+345           <list /> 
+346         </option> 
+347         <option name="taskNames"> 
+348           <list /> 
+349         </option> 
+350         <option name="vmOptions" /> 
+351       </ExternalSystemSettings> 
+352       <method /> 
+353     </configuration> 
+354     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails"> 
+355       <setting name="vmparams" value="" /> 
+356       <setting name="cmdLine" value="run-app" /> 
+357       <setting name="passParentEnv" value="true" /> 
+358       <setting name="launchBrowser" value="true" /> 
+359       <setting name="launchBrowserUrl" value="" /> 
+360       <method /> 
+361     </configuration> 
+362     <configuration default="true" type="JUnit" factoryName="JUnit"> 
+363       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+364       <module name="" /> 
+365       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+366       <option name="ALTERNATIVE_JRE_PATH" /> 
+367       <option name="PACKAGE_NAME" /> 
+368       <option name="MAIN_CLASS_NAME" /> 
+369       <option name="METHOD_NAME" /> 
+370       <option name="TEST_OBJECT" value="class" /> 
+371       <option name="VM_PARAMETERS" value="-ea" /> 
+372       <option name="PARAMETERS" /> 
+373       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" /> 
+374       <option name="ENV_VARIABLES" /> 
+375       <option name="PASS_PARENT_ENVS" value="true" /> 
+376       <option name="TEST_SEARCH_SCOPE"> 
+377         <value defaultName="singleModule" /> 
+378       </option> 
+379       <envs /> 
+380       <patterns /> 
+381       <method /> 
+382     </configuration> 
+383     <configuration default="true" type="JarApplication" factoryName="JAR Application"> 
+384       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+385       <envs /> 
+386       <method /> 
+387     </configuration> 
+388     <configuration default="true" type="Java Scratch" factoryName="Java Scratch"> 
+389       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+390       <option name="SCRATCH_FILE_ID" value="0" /> 
+391       <option name="MAIN_CLASS_NAME" /> 
+392       <option name="VM_PARAMETERS" /> 
+393       <option name="PROGRAM_PARAMETERS" /> 
+394       <option name="WORKING_DIRECTORY" /> 
+395       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+396       <option name="ALTERNATIVE_JRE_PATH" /> 
+397       <option name="ENABLE_SWING_INSPECTOR" value="false" /> 
+398       <option name="ENV_VARIABLES" /> 
+399       <option name="PASS_PARENT_ENVS" value="true" /> 
+400       <module name="" /> 
+401       <envs /> 
+402       <method /> 
+403     </configuration> 
+404     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor"> 
+405       <config-file value="" /> 
+406       <node-interpreter value="project" /> 
+407       <envs /> 
+408       <method /> 
+409     </configuration> 
+410     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug"> 
+411       <method /> 
+412     </configuration> 
+413     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin"> 
+414       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+415       <option name="MAIN_CLASS_NAME" /> 
+416       <option name="VM_PARAMETERS" /> 
+417       <option name="PROGRAM_PARAMETERS" /> 
+418       <option name="WORKING_DIRECTORY" /> 
+419       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+420       <option name="ALTERNATIVE_JRE_PATH" /> 
+421       <option name="PASS_PARENT_ENVS" value="true" /> 
+422       <module name="PRJ_BU2_JAVA_001" /> 
+423       <envs /> 
+424       <method /> 
+425     </configuration> 
+426     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script"> 
+427       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+428       <option name="filePath" /> 
+429       <option name="vmParameters" /> 
+430       <option name="alternativeJrePath" /> 
+431       <option name="programParameters" /> 
+432       <option name="passParentEnvs" value="true" /> 
+433       <option name="workingDirectory" /> 
+434       <option name="isAlternativeJrePathEnabled" value="false" /> 
+435       <envs /> 
+436       <method /> 
+437     </configuration> 
+438     <configuration default="true" type="Remote" factoryName="Remote"> 
+439       <option name="USE_SOCKET_TRANSPORT" value="true" /> 
+440       <option name="SERVER_MODE" value="false" /> 
+441       <option name="SHMEM_ADDRESS" value="javadebug" /> 
+442       <option name="HOST" value="localhost" /> 
+443       <option name="PORT" value="5005" /> 
+444       <method /> 
+445     </configuration> 
+446     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot"> 
+447       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+448       <module name="" /> 
+449       <envs /> 
+450       <method /> 
+451     </configuration> 
+452     <configuration default="true" type="TestNG" factoryName="TestNG"> 
+453       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" /> 
+454       <module name="" /> 
+455       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" /> 
+456       <option name="ALTERNATIVE_JRE_PATH" /> 
+457       <option name="SUITE_NAME" /> 
+458       <option name="PACKAGE_NAME" /> 
+459       <option name="MAIN_CLASS_NAME" /> 
+460       <option name="METHOD_NAME" /> 
+461       <option name="GROUP_NAME" /> 
+462       <option name="TEST_OBJECT" value="CLASS" /> 
+463       <option name="VM_PARAMETERS" value="-ea" /> 
+464       <option name="PARAMETERS" /> 
+465       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" /> 
+466       <option name="OUTPUT_DIRECTORY" /> 
+467       <option name="ANNOTATION_TYPE" /> 
+468       <option name="ENV_VARIABLES" /> 
+469       <option name="PASS_PARENT_ENVS" value="true" /> 
+470       <option name="TEST_SEARCH_SCOPE"> 
+471         <value defaultName="singleModule" /> 
+472       </option> 
+473       <option name="USE_DEFAULT_REPORTERS" value="false" /> 
+474       <option name="PROPERTIES_FILE" /> 
+475       <envs /> 
+476       <properties /> 
+477       <listeners /> 
+478       <method /> 
+479     </configuration> 
+480     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js"> 
+481       <method /> 
+482     </configuration> 
+483     <configuration default="true" type="js.build_tools.npm" factoryName="npm"> 
+484       <command value="run" /> 
+485       <scripts /> 
+486       <node-interpreter value="project" /> 
+487       <envs /> 
+488       <method /> 
+489     </configuration> 
+490     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher"> 
+491       <method /> 
+492     </configuration> 
+493     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)"> 
+494       <method /> 
+495     </configuration> 
+496   </component> 
+497   <component name="ShelveChangesManager" show_recycled="false"> 
+498     <option name="remove_strategy" value="false" /> 
+499   </component> 
+500   <component name="TaskManager"> 
+501     <task active="true" id="Default" summary="Default task"> 
+502       <changelist id="a61e90c6-dbd2-4d27-b0dc-07a0aa4eb048" name="Default" comment="" /> 
+503       <created>1497428714827</created> 
+504       <option name="number" value="Default" /> 
+505       <option name="presentableId" value="Default" /> 
+506       <updated>1497428714827</updated> 
+507       <workItem from="1497428718646" duration="749000" /> 
+508     </task> 
+509     <servers /> 
+510   </component> 
+511   <component name="TimeTrackingManager"> 
+512     <option name="totallyTimeSpent" value="749000" /> 
+513   </component> 
+514   <component name="ToolWindowManager"> 
+515     <frame x="0" y="22" width="1280" height="711" extended-state="0" /> 
+516     <editor active="true" /> 
+517     <layout> 
+518       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+519       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" /> 
+520       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+521       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+522       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+523       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+524       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" /> 
+525       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+526       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" /> 
+527       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+528       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+529       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+530       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+531       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+532       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+533       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" /> 
+534       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+535       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" /> 
+536       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" /> 
+537       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+538       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" /> 
+539       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" /> 
+540       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" /> 
+541       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" /> 
+542       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" /> 
+543       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" /> 
+544       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" /> 
+545       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" /> 
+546       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" /> 
+547     </layout> 
+548   </component> 
+549   <component name="TypeScriptGeneratedFilesManager"> 
+550     <option name="processedProjectFiles" value="true" /> 
+551   </component> 
+552   <component name="VcsContentAnnotationSettings"> 
+553     <option name="myLimit" value="2678400000" /> 
+554   </component> 
+555   <component name="XDebuggerManager"> 
+556     <breakpoint-manager /> 
+557     <watches-manager /> 
+558   </component> 
+559   <component name="antWorkspaceConfiguration"> 
+560     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" /> 
+561     <option name="FILTER_TARGETS" value="false" /> 
+562   </component> 
+563   <component name="editorHistoryManager"> 
+564     <entry file="uml://MODULES/mdl-PRJ_BU2_JAVA_001"> 
+565       <provider selected="true" editor-type-id="UmlEditorProvider"> 
+566         <state> 
+567           <ID>MODULES</ID> 
+568           <OriginalElement>mdl-PRJ_BU2_JAVA_001</OriginalElement> 
+569           <nodes> 
+570             <node x="" y="">mdl-PRJ_BU2_JAVA_001</node> 
+571           </nodes> 
+572           <notes /> 
+573           <edges /> 
+574           <settings layout="Hierarchic Group" zoom="1.0" x="105.5" y="14.5" /> 
+575           <SelectedNodes /> 
+576           <Categories /> 
+577         </state> 
+578       </provider> 
+579     </entry> 
+580     <entry file="uml://JAVA/cn.campsg.practical.bubble.MainClass"> 
+581       <provider selected="true" editor-type-id="UmlEditorProvider"> 
+582         <state> 
+583           <ID>JAVA</ID> 
+584           <OriginalElement>cn.campsg.practical.bubble.MainClass</OriginalElement> 
+585           <nodes> 
+586             <node x="" y="">cn.campsg.practical.bubble.MainClass</node> 
+587           </nodes> 
+588           <notes /> 
+589           <edges /> 
+590           <settings layout="Hierarchic Group" zoom="1.0" x="47.0" y="14.5" /> 
+591           <SelectedNodes /> 
+592           <Categories /> 
+593           <SCOPE>All</SCOPE> 
+594           <VISIBILITY>private</VISIBILITY> 
+595         </state> 
+596       </provider> 
+597     </entry> 
+598     <entry file="uml://JAVA/cn.campsg.practical.bubble.MainForm"> 
+599       <provider selected="true" editor-type-id="UmlEditorProvider"> 
+600         <state> 
+601           <ID>JAVA</ID> 
+602           <OriginalElement>cn.campsg.practical.bubble.MainForm</OriginalElement> 
+603           <nodes> 
+604             <node x="" y="">javafx.application.Application</node> 
+605             <node x="" y="">cn.campsg.practical.bubble.MainForm</node> 
+606           </nodes> 
+607           <notes /> 
+608           <edges /> 
+609           <settings layout="Hierarchic Group" zoom="1.0" x="50.5" y="54.0" /> 
+610           <SelectedNodes /> 
+611           <Categories /> 
+612           <SCOPE>All</SCOPE> 
+613           <VISIBILITY>private</VISIBILITY> 
+614         </state> 
+615       </provider> 
+616     </entry> 
+617     <entry file="file://$PROJECT_DIR$/src/cn/campsg/practical/bubble/MainClass.java"> 
+618       <provider selected="true" editor-type-id="text-editor"> 
+619         <state relative-caret-position="204"> 
+620           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" /> 
+621           <folding /> 
+622         </state> 
+623       </provider> 
+624     </entry> 
+625   </component> 
+626 </project> 
